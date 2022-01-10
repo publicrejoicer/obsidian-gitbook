@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-36044e0d114be16c1d23cdc2d238be8729f7b1d1.idx](git/objects/pack/pack36044e0d114be16c1d23cdc2d238be8729f7b1d1.idx)
-            * [pack-36044e0d114be16c1d23cdc2d238be8729f7b1d1.pack](git/objects/pack/pack36044e0d114be16c1d23cdc2d238be8729f7b1d1.pack)
+            * [pack-e0ce381e0a4f18f3307e0fc8741d3b7fc2f1b27e.idx](git/objects/pack/packe0ce381e0a4f18f3307e0fc8741d3b7fc2f1b27e.idx)
+            * [pack-e0ce381e0a4f18f3307e0fc8741d3b7fc2f1b27e.pack](git/objects/pack/packe0ce381e0a4f18f3307e0fc8741d3b7fc2f1b27e.pack)
 
 
     * [refs](git/refs/README.md)
@@ -273,8 +273,8 @@
             * [Triangulación de datos](obsidian/diseo-de-experiencia/investigacin/triangulacin-de-datos.md)
 
         * [00 - Diseño de experiencia (UX Design)](obsidian/diseo-de-experiencia/00-diseo-de-experiencia-ux-design.md)
-        * [CX](obsidian/diseo-de-experiencia/cx.md)
         * [Disciplinas de UX](obsidian/diseo-de-experiencia/disciplinas-de-ux.md)
+        * [Experiencia del cliente (Customer Experience o CX)](obsidian/diseo-de-experiencia/experiencia-del-cliente-customer-experience-o-cx.md)
         * [Flujo (User Flow)](obsidian/diseo-de-experiencia/flujo-user-flow.md)
 
     * [Diseño de servicios](obsidian/diseo-de-servicios/README.md)
