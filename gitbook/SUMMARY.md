@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-14e813db44a05c84ca13f5050fce20d2297e72f2.idx](git/objects/pack/pack14e813db44a05c84ca13f5050fce20d2297e72f2.idx)
-            * [pack-14e813db44a05c84ca13f5050fce20d2297e72f2.pack](git/objects/pack/pack14e813db44a05c84ca13f5050fce20d2297e72f2.pack)
+            * [pack-cd3050b9cd53b6a4b642938b882169cba44c3cbe.idx](git/objects/pack/packcd3050b9cd53b6a4b642938b882169cba44c3cbe.idx)
+            * [pack-cd3050b9cd53b6a4b642938b882169cba44c3cbe.pack](git/objects/pack/packcd3050b9cd53b6a4b642938b882169cba44c3cbe.pack)
 
 
     * [refs](git/refs/README.md)
@@ -223,6 +223,5 @@
 
 * [.gitattributes](.gitattributes)
 * [.gitignore](.gitignore)
-* [Empieza aquí](empieza-aqu.md)
 * [LICENSE](license)
 * [README](readme.md)
