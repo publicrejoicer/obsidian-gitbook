@@ -22,6 +22,7 @@ Este método de evaluación fue desarrollado por Molich y Nielsen en 1990. De ta
 ## Relacionado
 [[Heurística]]
 [[Las 10 heurísticas de Nielsen]]
+[[Sirius]]
 
 ## Herramientas
 https://olgacarreras.blogspot.com/2018/01/resena-de-ux-check-para-evaluaciones.html

@@ -8,7 +8,7 @@ Ben Shneiderman (born August 21, 1947) is an American computer scientist and pro
 
 Follow Ben Shneiderman’s 'Eight Golden Rules of Interface Design' if you want to design great, productive and frustration-free user interfaces. Apple, Google and Microsoft are among some of the highly successful companies whose well-designed products reflect Shneiderman’s rules. The characteristics derived from Shneiderman’s golden rules can be recognized in various [user interface](https://www.interaction-design.org/literature/topics/ui-design) guidelines produced by corporate giants like the companies mentioned above. The visual embodiment of these rules is even more evident in the resulting popular interfaces they produce. This article will teach you to improve your work by integrating the 8 golden rules.
 
-### Las 8 reglas
+## Las 8 reglas
 
 #### 1. Busca la consistencia
 
@@ -106,16 +106,17 @@ Human attention is limited and we are only capable of maintaining around five it
 
 ***
 
+
 ## Recursos
 
 ### Relacionado
-
-\[\[Las 10 heurísticas de Nielsen]]
+[[Las 10 heurísticas de Nielsen]]
+[[Heurística]]
+[[Heurísticas]]
+[[Evaluación heurística]]
 
 ### Enlaces
-
 https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces
 
 ### Libros
-
 Designing the User Interface: Strategies for Effective Human-Computer Interaction (Shneiderman, Ben)

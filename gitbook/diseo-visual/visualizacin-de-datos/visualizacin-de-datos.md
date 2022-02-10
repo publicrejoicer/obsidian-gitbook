@@ -9,5 +9,6 @@ La Visualización de la Información es el arte de representar la información d
 ### Ver también
 [[Triangulación de datos]]
 [[Dato]]
+[[Métrica]]
 
 ### Enlaces
